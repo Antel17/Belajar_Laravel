@@ -1,0 +1,3 @@
+- Belajar mengenai Git dan Git Hub
+- Belajar membuat repository
+- Belajar membuat branch
