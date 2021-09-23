@@ -1,0 +1,6 @@
+Belajar laravel
+-Intro - belajar laravel
+-instalasi dan konfigurasi
+-struktur folder dan view
+-blade template engine
+-model collection dan controler
