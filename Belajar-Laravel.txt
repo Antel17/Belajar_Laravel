@@ -4,3 +4,4 @@ Belajar laravel
 -struktur folder dan view
 -blade template engine
 -model collection dan controler
+-database dan eloquent
