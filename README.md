@@ -1,2 +1,2 @@
 # Belajar_Laravel
-Belajar tentang semua yang mengenai laravel dengna menonton semua part video episode dari chanel Web Programing Unpas
+Belajar tentang semua yang mengenai laravel dengan menonton semua part video dari episode yang ada di chanel Web Programing Unpas
